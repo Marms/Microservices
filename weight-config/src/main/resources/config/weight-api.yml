@@ -1,0 +1,10 @@
+eureka:
+  client:
+    service-url:
+      default-zone: ${EUREKA_URI:https://localhost:8761/eureka}
+  instance:
+    prefer-ip-address: true
+
+#eureka.client.healthcheck.enabled=true
+server:
+  port: 0

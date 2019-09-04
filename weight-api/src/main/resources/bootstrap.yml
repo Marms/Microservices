@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: weight-api
+  cloud:
+    config:
+      fail-fast: true
+  main:
+    allow-bean-definition-overriding: true

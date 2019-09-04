@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: seance-svc
+  cloud:
+    config:
+      fail-fast: true
+  main:
+    allow-bean-definition-overriding: true

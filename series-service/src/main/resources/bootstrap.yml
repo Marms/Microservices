@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: serie-svc
+  cloud:
+    config:
+      fail-fast: true
+  main:
+    allow-bean-definition-overriding: true

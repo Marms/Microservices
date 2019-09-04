@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestMicroservice.iml" filepath="$PROJECT_DIR$/.idea/TestMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weight-service-registry/demo-service-registry.iml" filepath="$PROJECT_DIR$/weight-service-registry/demo-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-service/exercice-svc.iml" filepath="$PROJECT_DIR$/exercise-service/exercice-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-template-service/exercice-template-svc.iml" filepath="$PROJECT_DIR$/exercise-template-service/exercice-template-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seance-service/seance-svc.iml" filepath="$PROJECT_DIR$/seance-service/seance-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seance-template-service/seance-template-svc.iml" filepath="$PROJECT_DIR$/seance-template-service/seance-template-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/series-service/serie-svc.iml" filepath="$PROJECT_DIR$/series-service/serie-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weight-api/weight-api.iml" filepath="$PROJECT_DIR$/weight-api/weight-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weight-config/weight-config.iml" filepath="$PROJECT_DIR$/weight-config/weight-config.iml" />
+    </modules>
+  </component>
+</project>
